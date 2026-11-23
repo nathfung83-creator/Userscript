@@ -1,2 +1,3 @@
 # Userscript
 Hello this is a userscript that I made and tested on ViolentMonkley and I worte this myself. This runs primarly on Wikipedia but if you want more sites you can use the @match to your website of choice. It gives you a word count on the currect number to text and also gives you a time for how long it will take (supposing you read at the avrage of humans). It also gives you how many percet you have read from teh website. This makes a small panel on the side of your screen in the bottem right corrner. Thank you for schkeing my project out.
+I used a bit of ai to teach me the code and explain it to me and tell me around where the problems were inside the code whcih then i manualy whet thought found exactly where they were and fixed every singe one.
