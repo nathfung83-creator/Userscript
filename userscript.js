@@ -5,6 +5,7 @@
 // @description  shows eta reat time, words, and reading progress
 // @match        https://*.wikipedia.org/*
 // @grant        none
+// @license     MIT
 // ==/UserScript==
 
 (function () {
